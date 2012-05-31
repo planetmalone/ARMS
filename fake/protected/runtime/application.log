@@ -1,0 +1,56 @@
+2012/05/12 17:44:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('admin')
+#1 /Applications/MAMP/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/MAMP/htdocs/fake/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fake/index.php?r=admin
+---
+2012/05/12 17:47:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('gii')
+#1 /Applications/MAMP/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/MAMP/htdocs/fake/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fake/index.php?r=gii
+---
+2012/05/12 17:48:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('gii')
+#1 /Applications/MAMP/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/MAMP/htdocs/fake/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fake/index.php?r=gii
+---
+2012/05/12 17:48:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('gii')
+#1 /Applications/MAMP/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/MAMP/htdocs/fake/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fake/index.php?r=gii
+---
+2012/05/12 17:48:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('admin')
+#1 /Applications/MAMP/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/MAMP/htdocs/fake/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fake/index.php?r=admin
+---
+2012/05/12 17:48:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('gii')
+#1 /Applications/MAMP/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/MAMP/htdocs/fake/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fake/index.php?r=gii
+---
+2012/05/12 23:05:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /Applications/MAMP/htdocs/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('gii')
+#1 /Applications/MAMP/htdocs/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /Applications/MAMP/htdocs/fake/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/fake/index.php?r=gii
+---
